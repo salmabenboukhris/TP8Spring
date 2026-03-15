@@ -18,4 +18,3 @@ Les fonctionnalités principales sont :
 - tester les endpoints avec Swagger UI
 
 ## Structure du projet
-
